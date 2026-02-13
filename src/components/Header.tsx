@@ -31,7 +31,7 @@ export const Header = () => {
 
       <div className="imagem grid grid-cols-1 md:grid-cols-3 gap-10 mt-10 text-center mx-auto max-w-4xl">
         <div className=" flex flex-col items-center">
-          <img src="/image/buque colorido.jpg" alt="Buque Colorido" className="w-full h-auto object-cover rounded-lg shadow-md" />
+          <img src="./image/buque colorido.jpg" alt="Buque Colorido" className="w-full h-auto object-cover rounded-lg shadow-md" />
           <p className="mt-2 font-semibold">Buquês coloridos</p>
         </div>
         <div className="flex flex-col items-center">
