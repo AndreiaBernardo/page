@@ -89,8 +89,14 @@ Garantimos beleza, frescor e durabilidade em cada arranjo.</p>
     <img src="./image/laranja.jpg" alt="Laranja de flores" className="w-full h-auto object-cover rounded-lg shadow-md" />
   </div>
 </div>
+
+<div className="mt-20  font-bold text-3xl text-pink-800 animate-bounce">
+  <p>🛵 ... Entregamos no conforto de sua casa!!</p>
+</div>
     </div>
 
     </main>
-  )
-}
+    
+  );
+};
+
