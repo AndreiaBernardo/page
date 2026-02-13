@@ -35,35 +35,35 @@ export const Header = () => {
           <p className="mt-2 font-semibold">Buquês coloridos</p>
         </div>
         <div className="flex flex-col items-center">
-          <img src="/image/girassol.jpg" alt="Girassol" className="w-full h-auto object-cover rounded-lg shadow-md" />
+          <img src="./image/girassol.jpg" alt="Girassol" className="w-full h-auto object-cover rounded-lg shadow-md" />
           <p className="mt-2 font-semibold">Girassol</p>
         </div>
         <div className="flex flex-col items-center">
-          <img src="/image/rosa.jpg" alt="Rosa" className="w-full h-auto object-cover rounded-lg shadow-md" />
+          <img src="./image/rosa.jpg" alt="Rosa" className="w-full h-auto object-cover rounded-lg shadow-md" />
           <p className="mt-2 font-semibold">Rosa</p>
         </div>
         <div className="flex flex-col items-center">
-          <img src="/image/buque rosa.jpg" alt="Buque Rosa" className="w-full h-auto object-cover rounded-lg shadow-md" />
+          <img src="./image/buque rosa.jpg" alt="Buque Rosa" className="w-full h-auto object-cover rounded-lg shadow-md" />
           <p className="mt-2 font-semibold">Buque Rosa</p>
         </div>
         <div className="flex flex-col items-center">
-          <img src="/image/rosa amarela.jpg" alt="Rosa Amarela" className="w-full h-auto object-cover rounded-lg shadow-md" />
+          <img src="./image/rosa amarela.jpg" alt="Rosa Amarela" className="w-full h-auto object-cover rounded-lg shadow-md" />
           <p className="mt-2 font-semibold">Rosa Amarela</p>
         </div>
         <div className="flex flex-col items-center">
-          <img src="/image/tulipa.jpg" alt="Tulipa" className="w-full h-auto object-cover rounded-lg shadow-md" />
+          <img src="./image/tulipa.jpg" alt="Tulipa" className="w-full h-auto object-cover rounded-lg shadow-md" />
           <p className="mt-2 font-semibold">Tulipa</p>
         </div>
         <div className="flex flex-col items-center">
-          <img src="/image/decora.jpg" alt="Decoração" className="w-full h-auto object-cover rounded-lg shadow-md" />
+          <img src="./image/decora.jpg" alt="Decoração" className="w-full h-auto object-cover rounded-lg shadow-md" />
           <p className="mt-2 font-semibold">Vaso de flores</p>
         </div>
         <div className="flex flex-col items-center">
-          <img src="/image/jacinto.jpg" alt="Jacinto" className="w-full h-auto object-cover rounded-lg shadow-md" />
+          <img src="./image/jacinto.jpg" alt="Jacinto" className="w-full h-auto object-cover rounded-lg shadow-md" />
           <p className="mt-2 font-semibold">Jacinto</p>
         </div>
         <div className="flex flex-col items-center">
-          <img src="/image/lirio.jpg" alt="Lírio" className="w-full h-auto object-cover rounded-lg shadow-md" />
+          <img src="./image/lirio.jpg" alt="Lírio" className="w-full h-auto object-cover rounded-lg shadow-md" />
           <p className="mt-2 font-semibold">Lírio</p>
         </div>
       </div>
@@ -80,13 +80,13 @@ Garantimos beleza, frescor e durabilidade em cada arranjo.</p>
 
 <div className="bloco grid grid-cols-1 md:grid-cols-3 gap-10 mt-10">
   <div className="flex flex-col items-center">
-    <img src="/image/cuidado.jpg" alt="Cuidado com flores" className="w-full h-auto object-cover rounded-lg shadow-md" />
+    <img src="./image/cuidado.jpg" alt="Cuidado com flores" className="w-full h-auto object-cover rounded-lg shadow-md" />
   </div>
   <div className="flex flex-col items-center">
-    <img src="/image/cartaz.jpg" alt="Cartaz de promoção" className="w-full h-auto object-cover rounded-lg shadow-md" />
+    <img src="./image/cartaz.jpg" alt="Cartaz de promoção" className="w-full h-auto object-cover rounded-lg shadow-md" />
   </div>
   <div className="flex flex-col items-center">
-    <img src="/image/laranja.jpg" alt="Laranja de flores" className="w-full h-auto object-cover rounded-lg shadow-md" />
+    <img src="./image/laranja.jpg" alt="Laranja de flores" className="w-full h-auto object-cover rounded-lg shadow-md" />
   </div>
 </div>
     </div>
