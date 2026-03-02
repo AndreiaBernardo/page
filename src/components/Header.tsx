@@ -2,7 +2,7 @@ export const Header = () => {
   return (
     <main >
 
-        <div className="text-center mt-10 font-bold text-4xl italic text-emerald-950 "> 
+        <div className="text-center mt-10 font-bold text-5xl text-emerald-950 "> 
             <h1>Floricultura Flores do Bosque</h1>
         </div>
 
@@ -16,7 +16,7 @@ export const Header = () => {
               </h2>
               <p className="font-semibold text-lg md:text-2xl p-5">Buquês personalizados para cada momento especial, arranjos florais feitos à mão com flores selecionadas escolhidas uma a uma para impressionar. O presente ideal para aniversários, datas especiais e declarações.</p>
       
-              <button className="bg-pink-700 p-3 rounded-3xl font-bold w-60"><a href="https://whatsapp.com" className="flex items-center gap-2"><img className="w-5 h-5" src="./image/seta.png" alt="" />Confira nosso catálogo</a></button>
+              <button className="bg-pink-700 p-3 rounded-3xl font-bold w-60"><a href="https://whatsapp.com" className="flex items-center gap-2"><img className="w-5 h-5" src="/image/seta.png" alt="" />Confira nosso catálogo</a></button>
       
               </div>
       
